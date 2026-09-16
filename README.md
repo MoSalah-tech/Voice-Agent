@@ -128,6 +128,8 @@ npm run dev
 - After every turn, the history is updated and saved with a TTL of 24 hours.
 - History is trimmed to the last MAX_HISTORY_MESSAGES messages to avoid token overflow.
 
+## Latency 
+- 0.5 To 5 seconds 
 
 ## 🎛️ Voice Activity Detection (VAD)
 
