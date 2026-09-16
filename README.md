@@ -4,6 +4,12 @@ A full‑stack, real‑time conversational AI voice assistant. Users speak in En
 
 ---
 
+**🔗 [Live Demo on Vercel](https://voice-agent-front-chi.vercel.app/)**
+
+
+
+
+
 ## ✨ Features
 
 - **Real‑time voice interaction** – Streams audio chunks, auto‑detects silence (VAD), and responds without manual stop buttons.
